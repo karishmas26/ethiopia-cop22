@@ -1,8 +1,8 @@
-## PROJECT:  badboys
-## AUTHOR:   A.Chafetz | USAID
-## PURPOSE:  TZA COP21 Support - Index Testing
+## PROJECT:  ethiopia-cop22
+## AUTHOR:   K. Srikanth | USAID
+## PURPOSE: COP22 community plots
 ## LICENSE:  MIT
-## DATE:     2021-01-26
+## DATE:     2022-03-02
 
 
 # DEPENDENCIES ------------------------------------------------------------
